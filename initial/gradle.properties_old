@@ -1,0 +1,4 @@
+systemProp.http.proxyHost=http://10.28.39.15
+systemProp.http.proxyPort=8080
+systemProp.https.proxyHost=https://10.28.39.15
+systemProp.https.proxyPort=8080
